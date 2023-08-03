@@ -1,0 +1,76 @@
+body{
+    background-color: #F6FAE8;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+/* font-family: 'Tektur', cursive; */
+}
+.icon{
+    width: 30px;
+    height: 3vh;
+    /* margin-top: 5%; */
+    
+}
+a{
+    font-size: 17px;
+    text-decoration: none;
+    color: black;
+    margin-left: 20%;
+}
+.crafty{
+    display: grid;
+    grid-template-columns: repeat(2,2fr);
+    background-color: #CAD3AE;
+    /* width: 90vw;
+    height: 70%; */
+    margin-left: 0%;
+}
+.craftywords{
+margin-left: 20%;
+margin-top: 15%;
+}
+
+.ladyImage{
+    width: 40%;
+    height: 70vh;
+}
+.ladyImage img{
+    width: 50vw;
+    height: 50vh;   
+}
+#spancrafts{
+    font-size: 45px;
+    font-weight: 25px;
+    color: yellow;
+    margin-top: 5%;
+}
+.arts{
+    display: grid;
+    grid-template-columns: repeat(3,2fr);
+}
+h2{
+    margin-top: 7%;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: 500;
+}
+.images{
+width: 18vw;
+height: 37vh;
+background-color: #CAD3AE;
+padding: 20px;
+margin-top: 5%;
+border: none;
+border-radius: 50px;
+margin-top: 15%;
+margin-left: 15%;
+box-shadow: #CAD3AE;
+}
+#category{
+    width: 20vw;
+    height: 40vh;
+    border: solid 1px;
+    border-radius: 50px;
+    margin-bottom: 35%;
+    margin-left: 10%;
+    border: none;
+}
